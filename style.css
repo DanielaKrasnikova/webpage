@@ -1,0 +1,28 @@
+body {background-color: #49fde8;}
+h1   {color: #de12d7;}
+p    {color: #e61edf;}
+h1 {
+  color: #fb00ff;
+  font-family: verdana;
+  font-size: 300%;
+  text-align: center;
+}
+p {
+  color: #ff00ae;
+  font-family: verdana;
+  font-size: 160%;
+   text-align: center;
+}
+
+p {
+  width: 300px;
+  border: 15px solid #0d44c5;
+  padding: 10px;
+  margin: 10px;
+}
+a{
+  color: #ff00c8;
+  font-family: verdana;
+  font-size: 190%;
+}
+
